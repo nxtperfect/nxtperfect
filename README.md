@@ -22,7 +22,6 @@
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />]
 
 <br />
-<br />
 
 ---
 
