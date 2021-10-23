@@ -23,15 +23,5 @@
 
 <br />
 
----
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="NxtPerfect's GitHub Stats" src="https://github-readme-stats.nxtperfect.vercel.app/api?username=nxtperfect&show_icons=true&hide_border=true" />
-
-</details>
-
 [twitter]: https://twitter.com/nxtperfectb
 [instagram]: https://instagram.com/nxtperfect.blend/
