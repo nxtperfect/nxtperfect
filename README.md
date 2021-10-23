@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning C++, followed by Python
 - 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: Create first Open Source Project
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
