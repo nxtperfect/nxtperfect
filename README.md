@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning C++, followed by Python
 - 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: Create first Open Source Project
+- 🥅 2022 Goals: Create first Open Source Project
 <hr>
 </hr>
 
