@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-Discord: NxtPerfect#2113
-Speek: speek:pivzgwwi4aze3yosr75eaipdmoe53xr6zzdwr7wndxa3zk2qkg7vmlqd
-LinkedIn: [Soon]
+- Discord: NxtPerfect#2113
+- Speek: speek:pivzgwwi4aze3yosr75eaipdmoe53xr6zzdwr7wndxa3zk2qkg7vmlqd
+- LinkedIn: [Soon]
 
 <hr>
 </hr>
