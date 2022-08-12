@@ -1,18 +1,18 @@
 ### Hi there, I'm NxtPerfect ✌
 
-## I'm a Developer, 3d artist and student!!
+## I'm a Developer, 3D Artist and Student!!
 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate with others
+- 🌱 currently learning Python
+- 👯 looking to collaborate with others
 - 🥅 2022 Goals: Create first Open Source Project
 <hr>
 </hr>
 
 ### Connect with me:
 
-Discord: <pre><code>NxtPerfect#2113</code></pre>
-Speek: <pre><code>speek:pivzgwwi4aze3yosr75eaipdmoe53xr6zzdwr7wndxa3zk2qkg7vmlqd</code></pre>
-linkedin: [Soon]
+Discord:NxtPerfect#2113
+Speek: speek:pivzgwwi4aze3yosr75eaipdmoe53xr6zzdwr7wndxa3zk2qkg7vmlqd
+LinkedIn: [Soon]
 
 <hr>
 </hr>
