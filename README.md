@@ -2,9 +2,9 @@
 
 ## I'm a Developer, 3D Artist and Student!!
 
-- 🌱 currently learning Python
+- 🌱 currently learning Python and Rust
 - 👯 looking to collaborate with others
-- 🥅 2022 Goals: Create first Open Source Project
+- 🥅 2023 Goals: Create useful projects
 <hr>
 </hr>
 
