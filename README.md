@@ -1,21 +1,19 @@
-### Hi there, I'm NxtPerfect ✌
+### Hi there, I'm Aurora 😇
 
-## I'm a Developer, 3D Artist and Student!!
+and **this** is *my profile*! Organized, motivated, hard working and *flamming* to **write some code** 🔥🔥🔥<br>
+Let's make a difference together!
 
-- 🌱 currently learning React and Rust
-- 👯 looking to collaborate with others
-- 🥅 2023 Goals: Create useful projects
-<hr>
-</hr>
+<p></p>
+
+## I'm a Beginner Frontend Developer and Student!!
+- 🌱 currently learning web development and graphic programming
+- 🤔 interested in programming websites, video games, graphics
+- 🥅 2023 Goals: be proficient with <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 
 ![Aurora Github Stats](https://github-readme-stats.vercel.app/api?username=nxtperfect&show&theme=dracula)
 
-<hr>
-</hr>
+<p></p>
 
 ### Familiar Languages and Tools:
 
-<img align="left" alt="Linux" width="30px" src="https://camo.githubusercontent.com/775cff44e1c61c0a646d44eeaba420c99ace22da815995cd69259ba53f39cf0f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e75782e706e67" />
-<img align="left" alt="Neovim" width="24px" src="https://camo.githubusercontent.com/50cadacaef2cb5b99bb929e28f7c59cd14b66c8a4de48a32877bb9f61615b923/68747470733a2f2f6e656f76696d2e696f2f6c6f676f732f6e656f76696d2d6d61726b2d666c61742e706e67" />
-<img align="left" alt="Rust" width="30px" src="https://camo.githubusercontent.com/04a68d28c34b095402af3f66b15a65b9802c0d7ffdfa813635f65a9dbb18c16e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67" />
-<img align="left" alt="Python" width="30px" src="https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,git,neovim,linux)](https://skillicons.dev)
