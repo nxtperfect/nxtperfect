@@ -16,4 +16,4 @@ Let's make a difference together!
 
 ### Familiar Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,python,react,git,mysql,neovim,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,python,git,mysql,neovim,linux)](https://skillicons.dev)
