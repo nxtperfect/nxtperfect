@@ -6,10 +6,14 @@ Let's make a difference together!
 <p></p>
 
 ## I'm a Beginner Frontend Developer and Student!!
-- 🌱 currently learning web development and graphic programming
+- 🌱 currently learning web development
 - 🤔 interested in programming websites, video games, graphics
-- 🥅 2023 Goals: be proficient with <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-
+- 🥅 2024 Goals:
+  - Create 3 React Projects ![React](https://img.shields.io/badge/React-black?logo=react)
+  - Tryout ![Svelte](https://img.shields.io/badge/Svelte-black?logo=svelte)
+  - Solve 100 leetcode problems
+<div align="center">
+  
 ## Worth noting
 [Advent of code 2023 Solutions Python](https://github.com/NxtPerfect/advent_of_code_2023)<br>
 [Leetcode](https://leetcode.com/NxtPerfect/)<br>
@@ -23,3 +27,5 @@ Let's make a difference together!
 ### Familiar Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,python,git,mysql,neovim,linux)](https://skillicons.dev)
+
+</div>
