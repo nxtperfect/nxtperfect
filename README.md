@@ -9,9 +9,9 @@ Let's make a difference together!
 - 🌱 currently learning web development
 - 🤔 interested in programming websites, video games, graphics
 - 🥅 2024 Goals:
-  - Create 3 React Projects ![React](https://img.shields.io/badge/React-black?logo=react)
-  - Tryout ![Svelte](https://img.shields.io/badge/Svelte-black?logo=svelte)
-  - Solve 100 leetcode problems
+  - [ ] 0/3 Create 3 React Projects ![React](https://img.shields.io/badge/React-black?logo=react)
+  - [ ] 0/1 Tryout ![Svelte](https://img.shields.io/badge/Svelte-black?logo=svelte)
+  - [ ] 8/100 Solve 100 leetcode problems
 <div align="center">
   
 ## Worth noting
