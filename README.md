@@ -11,7 +11,7 @@ Let's make a difference together!
 - 🥅 2024 Goals:
   - [ ] 0/3 Create 3 React Projects ![React](https://img.shields.io/badge/React-black?logo=react)
   - [ ] 0/1 Tryout ![Svelte](https://img.shields.io/badge/Svelte-black?logo=svelte)
-  - [ ] 8/100 Solve 100 leetcode problems
+  - [ ] 10/100 Solve 100 leetcode problems
 <div align="center">
   
 ## Worth noting
