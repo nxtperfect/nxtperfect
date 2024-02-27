@@ -21,6 +21,7 @@ Let's make a difference together!
 [Hackerranks](https://www.hackerrank.com/profile/alakaxan)<br>
 
 ![Aurora Github Stats](https://github-readme-stats.vercel.app/api?username=nxtperfect&show&theme=dracula)
+![Aurora top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxtperfect&theme=dracula&hide_langs_below=1)
 
 <p></p>
 
