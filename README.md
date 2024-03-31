@@ -7,11 +7,10 @@ Let's make a difference together!
 
 ## I'm a Beginner Frontend Developer and Student!!
 - 🌱 currently learning web development
-- 🤔 interested in programming websites, video games, graphics
+- 🤔 interested in websites, graphics and neural networks
 - 🥅 2024 Goals:
   - [ ] 1/3 Create 3 React Projects ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-  - [ ] 1/4 Tryout ![Svelte](https://img.shields.io/badge/Svelte-red?style=for-the-badge&logo=svelte) ![Solid](https://img.shields.io/badge/Solid-gray?style=for-the-badge&logo=solid) ![Next](https://img.shields.io/badge/nextjs-white?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=black&color=black) ![HTMX](https://img.shields.io/badge/HTMX-blue?style=for-the-badge&logo=htmx) (Finished)
-  - [ ] 18/100 Solve 100 leetcode problems
+  - [ ] 20/100 Solve 100 leetcode problems
 <div align="center">
   
 ## Worth noting
