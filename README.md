@@ -1,13 +1,13 @@
 ### Hi there, I'm Aurora 😇
 
-and **this** is *my profile*! Organized, motivated, hard working and *flamming* to **write some code** 🔥🔥🔥<br>
+and **this** is *my profile*! Organized, motivated, hard working and *scorching* to **write some code** 🔥🔥🔥<br>
 Let's make a difference together!
 
 <p></p>
 
 ## I'm a Beginner Frontend Developer and Student!!
-- 🌱 currently learning web development
-- 🤔 interested in websites, graphics and neural networks
+- 🌱 currently learning web development and neural networks
+- 🤔 interested in websites, graphics and ai
 - 🥅 2024 Goals:
   - [ ] 1/3 Create 3 React Projects ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
   - [ ] 25/100 Solve 100 leetcode problems
