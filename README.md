@@ -9,8 +9,8 @@ Let's make a difference together!
 - 🌱 currently learning web development and neural networks
 - 🤔 interested in websites, graphics and ai
 - 🥅 2024 Goals:
-  - [ ] 1/3 Create 3 React Projects ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-  - [ ] 26/100 Solve 100 leetcode problems
+  - [ ] 2/3 Create 3 React Projects ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+  - [ ] 28/100 Solve 100 leetcode problems
 <div align="center">
   
 ## Worth noting
