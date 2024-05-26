@@ -7,7 +7,7 @@ Let's make a difference together!
 
 ## I'm a Frontend Developer and Student!!
 - 🌱 currently learning web development and neural networks
-- 🤔 interested in websites and machine learning
+- 🤔 interested in websites, data science and machine learning
 - 🥅 2024 Goals:
   - [ ] 2/3 Create 3 React Projects ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
   - [ ] 32/100 Solve 100 leetcode problems
