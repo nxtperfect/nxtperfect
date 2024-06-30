@@ -10,7 +10,7 @@ Let's make a difference together!
 - 🤔 interested in websites, data science and machine learning
 - 🥅 2024 Goals:
   - [ ] 2/3 Create 3 React Projects ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-  - [ ] 34/100 Solve 100 leetcode problems
+  - [ ] 37/100 Solve 100 leetcode problems
 <div align="center">
   
 ## Worth noting
@@ -26,6 +26,6 @@ Let's make a difference together!
 
 ### Familiar Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,sass,tailwind,figma,nodejs,bun,python,mysql,postgres,git,neovim,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind,figma,nodejs,bun,python,mysql,postgres,sqlite,git,neovim,linux&perline=6)](https://skillicons.dev)
 
 </div>
