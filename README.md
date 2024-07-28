@@ -20,12 +20,12 @@ Let's make a difference together!
 [Hackerranks](https://www.hackerrank.com/profile/alakaxan)<br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nxtperfect&show_icons=true&show&theme=dracula&hide=issues&rank_icon=percentile)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxtperfect&layout=donut-vertical&theme=dracula&hide_langs_below=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxtperfect&layout=compact&theme=dracula&hide_langs_below=1&hide=html,css,scheme,makefile&exclude_repo=.config&count_weight=0.5&size_weight=0.5)
 
 <p></p>
 
 ### Familiar Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind,figma,nodejs,bun,python,mysql,postgres,sqlite,git,neovim,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind,python,c,go,mysql,postgres,sqlite,figma,nodejs,bun,git,neovim,linux&perline=6)](https://skillicons.dev)
 
 </div>
