@@ -20,6 +20,7 @@ Let's make a difference together!
 [Hackerranks](https://www.hackerrank.com/profile/alakaxan)<br>
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/langs?time_range=one_year&theme=dark)<br>
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/repos?time_range=one_year&theme=dark)<br>
 
 <p></p>
 
