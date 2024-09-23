@@ -26,6 +26,6 @@ Let's make a difference together!
 
 ### Familiar Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind,python,c,go,mysql,postgres,sqlite,figma,nodejs,bun,git,neovim,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind,python,c,go,elixir,mysql,postgres,sqlite,figma,nodejs,bun,git,neovim,linux&perline=6)](https://skillicons.dev)
 
 </div>
