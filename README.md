@@ -19,8 +19,8 @@ Let's make a difference together!
 [Codewars](https://www.codewars.com/users/NxtPerfect)<br>
 [Hackerranks](https://www.hackerrank.com/profile/alakaxan)<br>
 
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/langs?time_range=one_year&theme=dark)<br>
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/repos?time_range=one_year&theme=dark)<br>
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/langs?time_range=one_year&loc_metric=changed&theme=dark)<br>
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/repos?time_range=one_year&loc_metric=changed&theme=dark)<br>
 
 <p></p>
 
