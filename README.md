@@ -15,6 +15,7 @@ Let's make a difference together!
   
 ## Worth noting
 [Advent of code 2023 Solutions Python](https://github.com/NxtPerfect/advent_of_code_2023)<br>
+[Advent of code 2024 Java](https://github.com/NxtPerfect/advent_2024)<br>
 [Leetcode](https://leetcode.com/NxtPerfect/)<br>
 [Codewars](https://www.codewars.com/users/NxtPerfect)<br>
 [Hackerranks](https://www.hackerrank.com/profile/alakaxan)<br>
