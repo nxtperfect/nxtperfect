@@ -10,7 +10,7 @@ Let's make a difference together!
 - 🤔 interested in websites, data science and machine learning
 - 🥅 2024 Goals:
   - [ ] 0/3 Create 3 Typescript Projects ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
-  - [ ] 94/100 Solve 100 leetcode problems
+  - [x] 100/100 Solve 100 leetcode problems
 <div align="center">
   
 ## Worth noting
