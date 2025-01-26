@@ -6,10 +6,11 @@ Let's make a difference together!
 <p></p>
 
 ## I'm a Frontend Developer and Student!!
-- 🌱 currently learning web development and neural networks
-- 🤔 interested in websites, data science and machine learning
+- 🌱 currently learning web development
+- 🤔 interested in webdev, data science and machine learning
 - 🥅 2024 Goals:
   - [ ] 0/3 Create 3 Typescript Projects ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
+  - [ ] 0/1 Data Analysis Project ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
   - [x] 100/100 Solve 100 leetcode problems
 <div align="center">
   
