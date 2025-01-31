@@ -14,7 +14,7 @@ Let's make a difference together!
   - [x] 100/100 Solve 100 leetcode problems
 <div align="center">
   
-## Worth noting
+## Other Profiles
 [Advent of code 2023 Solutions Python](https://github.com/NxtPerfect/advent_of_code_2023)<br>
 [Advent of code 2024 Java](https://github.com/NxtPerfect/advent_2024)<br>
 [Leetcode](https://leetcode.com/NxtPerfect/)<br>
@@ -28,6 +28,6 @@ Let's make a difference together!
 
 ### Familiar Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind,python,c,go,elixir,mysql,postgres,sqlite,figma,nodejs,bun,git,neovim,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind,python,mysql,postgres,sqlite,figma,nodejs,bun,git,neovim,linux&perline=6)](https://skillicons.dev)
 
 </div>
