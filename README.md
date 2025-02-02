@@ -8,10 +8,10 @@ Let's make a difference together!
 ## I'm a Frontend Developer and Student!!
 - 🌱 currently learning web development
 - 🤔 interested in webdev, data science and machine learning
-- 🥅 2024 Goals:
+- 🥅 2025 Goals:
   - [ ] 0/3 Create 3 Typescript Projects ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
   - [ ] 0/1 Data Analysis Project ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-  - [x] 100/100 Solve 100 leetcode problems
+  - [x] 103/100 Solve 100 leetcode problems
 <div align="center">
   
 ## Other Profiles
