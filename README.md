@@ -14,15 +14,16 @@ Let's make a difference together!
   - [x] 103/100 Solve 100 leetcode problems
 <div align="center">
   
+## Statistics
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/langs?time_range=one_year&loc_metric=changed&theme=dark)<br>
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/repos?time_range=one_year&loc_metric=changed&theme=dark)<br>
+
 ## Other Profiles
 [Advent of code 2023 Solutions Python](https://github.com/NxtPerfect/advent_of_code_2023)<br>
 [Advent of code 2024 Java](https://github.com/NxtPerfect/advent_2024)<br>
 [Leetcode](https://leetcode.com/NxtPerfect/)<br>
 [Codewars](https://www.codewars.com/users/NxtPerfect)<br>
 [Hackerranks](https://www.hackerrank.com/profile/alakaxan)<br>
-
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/langs?time_range=one_year&loc_metric=changed&theme=dark)<br>
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/repos?time_range=one_year&loc_metric=changed&theme=dark)<br>
 
 <p></p>
 
