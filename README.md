@@ -19,7 +19,7 @@ Let's make a difference together!
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/repos?time_range=one_year&loc_metric=changed&theme=dark)<br>
 
 ## Other Profiles
-[Advent of code 2023 Solutions Python](https://github.com/NxtPerfect/advent_of_code_2023)<br>
+[Advent of code 2023 Python](https://github.com/NxtPerfect/advent_of_code_2023)<br>
 [Advent of code 2024 Java](https://github.com/NxtPerfect/advent_2024)<br>
 [Leetcode](https://leetcode.com/NxtPerfect/)<br>
 [Codewars](https://www.codewars.com/users/NxtPerfect)<br>
@@ -28,7 +28,6 @@ Let's make a difference together!
 <p></p>
 
 ### Familiar Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind,python,mysql,postgres,sqlite,figma,nodejs,bun,git,neovim,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,react,next,sass,tailwind,mysql,postgres,sqlite,nodejs,bun,figma,git,neovim,linux&perline=6)](https://skillicons.dev)
 
 </div>
