@@ -15,8 +15,8 @@ Let's make a difference together!
 <div align="center">
   
 ## Statistics
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/langs?time_range=one_year&loc_metric=changed&theme=dark)<br>
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/repos?time_range=one_year&loc_metric=changed&theme=dark)<br>
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)<br>
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NxtPerfect/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)<br>
 
 ## Other Profiles
 [Advent of code 2023 Python](https://github.com/NxtPerfect/advent_of_code_2023)<br>
