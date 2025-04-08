@@ -19,11 +19,8 @@ Let's make a difference together!
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/miloszmilo/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)<br>
 
 ## Other Profiles
-[Advent of code 2023 Python](https://github.com/NxtPerfect/advent_of_code_2023)<br>
-[Advent of code 2024 Java](https://github.com/NxtPerfect/advent_2024)<br>
-[Leetcode](https://leetcode.com/NxtPerfect/)<br>
-[Codewars](https://www.codewars.com/users/NxtPerfect)<br>
-[Hackerranks](https://www.hackerrank.com/profile/alakaxan)<br>
+[Advent of code 2023 Python](https://github.com/miloszmilo/advent_of_code_2023)<br>
+[Advent of code 2024 Java](https://github.com/miloszmilo/advent_2024)<br>
 
 <p></p>
 
