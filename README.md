@@ -11,7 +11,7 @@ Let's make a difference together!
 - 🥅 2025 Goals:
   - [ ] 2/3 Create 3 Typescript Projects ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
   - [x] 1/1 Data Analysis Project ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-  - [ ] 70/100 Solve 100 leetcode problems
+  - [ ] 74/100 Solve 100 leetcode problems
 <div align="center">
   
 ## Statistics
