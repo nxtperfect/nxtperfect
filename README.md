@@ -16,8 +16,8 @@ Let's make a difference together!
 <div align="center">
   
 ## Statistics
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/miloszmilo/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)<br>
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/miloszmilo/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)<br>
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nxtperfect/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)<br>
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nxtperfect/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)<br>
 
 ## Other Profiles
 [Advent of code 2023 Python](https://github.com/miloszmilo/advent_of_code_2023)<br>
