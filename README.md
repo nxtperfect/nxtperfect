@@ -11,7 +11,7 @@ Let's make a difference together!
 - 🥅 2025 Goals:
   - [x] 3/3 Create 3 Typescript Projects ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
   - [x] 1/1 Data Analysis Project ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-  - [x] 110/100 Solve 100 leetcode problems
+  - [x] 114/100 Solve 100 leetcode problems
   - [x] 1/1 Publish npm package ![NPM](https://img.shields.io/badge/Npm-black?style=for-the-badge&logo=npm) [check-spelling](https://www.npmjs.com/package/check-spelling)
 <div align="center">
   
