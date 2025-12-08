@@ -20,8 +20,9 @@ Let's make a difference together!
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nxtperfect/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)<br>
 
 ## Other Profiles
-[Advent of code 2023 Python](https://github.com/nxtperfect/advent_of_code_2023)<br>
-[Advent of code 2024 Java](https://github.com/nxtperfect/advent_2024)<br>
+[Advent of Code 2023 Python](https://github.com/nxtperfect/advent_of_code_2023)<br>
+[Advent of Code 2024 Java](https://github.com/nxtperfect/advent_2024)<br>
+[Advent of Code 2025 Python](https://github.com/nxtperfect/advent_2025)<br>
 
 <p></p>
 
