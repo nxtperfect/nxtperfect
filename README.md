@@ -8,11 +8,9 @@ Let's make a difference together!
 ## I'm a Fullstack Developer!!
 - 🌱 currently learning web development
 - 🤔 interested in machine learning, backend
-- 🥅 2025 Goals:
-  - [x] 3/3 Create 3 Typescript Projects ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
-  - [x] 1/1 Data Analysis Project ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-  - [x] 130/100 Solve 100 leetcode problems
-  - [x] 1/1 Publish npm package ![NPM](https://img.shields.io/badge/Npm-black?style=for-the-badge&logo=npm) [check-spelling](https://www.npmjs.com/package/check-spelling)
+- 🥅 2026 Goals:
+  - [ ] 0/3 Create 3 React Projects ![React](https://img.shields.io/badge/React?style=for-the-badge&logo=react)
+  - [ ] 0/100 Solve 100 leetcode problems
 <div align="center">
   
 ## Statistics
