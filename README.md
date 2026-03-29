@@ -10,7 +10,7 @@ Let's make a difference together!
 - 🤔 interested in machine learning, backend
 - 🥅 2026 Goals:
   - [ ] 0/3 Create 3 React Projects ![React](https://img.shields.io/badge/React-black?logo=react)
-  - [ ] 0/100 Solve 100 leetcode problems
+  - [ ] 20/100 Solve 100 leetcode problems
 <div align="center">
   
 ## Statistics
