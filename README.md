@@ -10,7 +10,7 @@ Let's make a difference together!
 - 🤔 interested in machine learning, backend
 - 🥅 2026 Goals:
   - [ ] 0/3 Create 3 Python Projects
-  - [ ] 63/100 Solve 100 leetcode problems
+  - [ ] 64/100 Solve 100 leetcode problems
 <div align="center">
   
 ## Statistics
